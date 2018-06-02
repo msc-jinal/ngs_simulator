@@ -24,7 +24,7 @@ step3: run alignment using shell script
 $ /bwa_align.sh
 <br/>
 <br/>
-aln_se.sam SAM file will generated, and aln_se.sam.txt generated as well to view in text mode
+aln_se.sam SAM file will generated, and aln_se.stats.txt generated as well to view in text mode
 
 
 
