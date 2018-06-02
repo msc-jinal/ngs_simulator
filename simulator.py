@@ -7,7 +7,7 @@ from Bio.Seq import Seq
 
 readsize=50
 totalreads=100000
-errfreq = 0.00
+errfreq = 0.01
 tot_err_base=int(totalreads * errfreq)         
 gseq=[]
 
