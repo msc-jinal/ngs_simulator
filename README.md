@@ -8,15 +8,20 @@
 
 
 >step1: execute simulator.py in linux
->python3 simulator.py
+<br/>
+python3 simulator.py
 
+<br/>
 >step2: change script mode to executable
->chmod +x bwa_align.sh
+<br/>
+chmod +x bwa_align.sh
 
+<br/>
 >step3: run alignment using shell script
->/bwa_align.sh
+/bwa_align.sh
 
-> aln_se.sam SAM file will generated, and aln_se.sam.txt generated as well to view in text mode
+<br/>
+aln_se.sam SAM file will generated, and aln_se.sam.txt generated as well to view in text mode
 
 
 
