@@ -1,8 +1,9 @@
 # ngs_simulator
-# This steps is for linux environemtn (Ubuntu)
-# Python3 must be installed in linux. 
-# BioPython module must be installed in Python3 
-# BWA must be install in linux
+
+This steps is for linux environemtn (Ubuntu)
+Python3 must be installed in linux. 
+BioPython module must be installed in Python3 
+BWA must be install in linux
 
 step1: execute simulator.py in linux
 python3 simulator.py
